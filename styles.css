@@ -1,5 +1,5 @@
 :root {
-  --primary-color: "red";
+  --primary-color: rgb(255, 0, 51);
   --primary-contrast-color: #fff;
   --font-family: "Roboto", sans-serif;
   --button-radius: 6px;
